@@ -2,7 +2,7 @@ import React from 'react'
 import Productcard from './Productcard'
 import products, { allProduct } from "./Data/Products"
 
-// This is Branch version 1.2
+// This is version 1.3
 
 export default function Homepage(props) {
 
