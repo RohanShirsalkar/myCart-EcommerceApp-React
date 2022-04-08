@@ -1,5 +1,4 @@
-import React, { useContext } from 'react'
-import { CartContext } from '../context/cartContext'
+import React from 'react'
 
 export default function Cartproductcard(props) {
 

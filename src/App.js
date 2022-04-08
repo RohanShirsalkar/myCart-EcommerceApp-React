@@ -12,7 +12,6 @@ import {
 } from "react-router-dom";
 import Checkout from './components/Checkout';
 import Success from './components/Success'
-import {CartState} from './context/cartContext';
 
 function App() {
 
@@ -20,10 +19,6 @@ function App() {
 
   return (
     <>
-
-
-
-      <CartState>
 
         <Router>
           <Navbar />
@@ -39,10 +34,6 @@ function App() {
           <Footer />
 
         </Router>
-
-      </CartState>
-
-
 
     </>
   );

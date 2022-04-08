@@ -10,7 +10,6 @@ export default function Checkout() {
 
 
                 <div class="card border-success my-3" >
-                    {/* <div class="card-header">Order placed succesfully</div> */}
                     <div class="card-body text-success">
                         <h5 class="card-title">Order placed succesfully</h5>
                         <p class="card-text">Thankyou for shopping with us</p>
