@@ -1,4 +1,3 @@
-import React, { useContext } from 'react'
 import { Link } from 'react-router-dom'
 
 export default function Checkout() {
@@ -6,10 +5,6 @@ export default function Checkout() {
 
     return (
         <>
-
-            {/* <div className='container mt-3' style={{ height: "100vh" }}>
-                <h4>Order placed succesfully ({cntxData.state})</h4>
-            </div> */}
 
             <div className="container"  style={{ height: "80vh" }}>
 

@@ -2,7 +2,7 @@ import { useParams } from "react-router";
 import { allProduct } from "./Data/Products"
 import { cartProducts } from "./Data/Cart"
 import { Link } from "react-router-dom";
-import { useContext, useState } from "react";
+import { useState } from "react";
 
 export default function Productpage() {
 
